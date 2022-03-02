@@ -9,6 +9,8 @@ When you assign a theme to your Site's Public Pages, the token definition includ
 ## Defining Tokens for Your Style Book
 
 Since the token definition is tied to your theme, token definitions must correspond to a CSS variable contained within your theme module. Specify the token definitions themselves in a `.json` file within your theme module's folder, named `frontend-token-definition.json`. 
+this file must reside in the path /theme-custom/src/WEB-INF
+![image](https://user-images.githubusercontent.com/15604079/156465999-b11db914-5c34-4cc8-b25c-02c096c7a85a.png)
 
 ### Token Categories
 
